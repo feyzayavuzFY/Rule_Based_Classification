@@ -19,3 +19,12 @@
 * SEX : Gender of users
 * COUNTRY : which country the costumers are from
 * AGE : Age of customers
+
+
+
+# BEFORE DATASET:   ![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/80472237/133277331-04fd46cb-ef8e-4b64-9fda-5bffdbb3fb15.png)
+
+
+
+# AFTER DATASET:   ![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/80472237/133277503-d2cb70c8-5031-453b-862c-66fab7415da4.png)
+
